@@ -7,9 +7,11 @@ algunos campos que ya escribio se mantengan.
 
 ![image](https://github.com/HSamuelGomezC/Computacion-Tolerante-a-Fallas/assets/106403018/3cdc32be-029a-41b5-aae4-ce187c36d4df)
 
-
+Ahi tenemos el inicio.
 
 ![image](https://github.com/HSamuelGomezC/Computacion-Tolerante-a-Fallas/assets/106403018/fb35b788-dd11-40b8-b004-226c55305c87)
+
+
 
 ![image](https://github.com/HSamuelGomezC/Computacion-Tolerante-a-Fallas/assets/106403018/99de8405-5c62-49a1-955d-8137efda2f6f)
 
