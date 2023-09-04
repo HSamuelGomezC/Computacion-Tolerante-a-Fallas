@@ -29,4 +29,9 @@ Se han recuperado con exito los campos.
 
 En caso de oprimir enviar estos registros ya guardados no estaran.
 
+## Como se logro esto?
+Gracias a localStorage que es un objeto de almacenamiento web en JavaScript, se usa para guardar cantidades moderadas de informacion.
+Estos datos se guardan en el navegador del usuario cuando se cierra el navegador o algo parecido los datos seguiran ahi, pero gracias a las funcion 
+"localStorage.clear()" fue posible que se borren estos datos una ves que el usuario haya enviado su registro.
+
 
